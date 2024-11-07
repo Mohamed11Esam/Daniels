@@ -80,9 +80,15 @@ nav a:active::before {
   font-weight: 200;
   margin-bottom: 20px;
 }
+@media only screen and (max-width: 600px) {
+ .home p {
+  font-size: 2.2rem;
+  font-weight: 200;
+  margin-bottom: 20px;
+}
 @media only screen and (max-width: 710px) {
  .home p {
-  font-size: 2.75rem;
+  font-size: 2.70rem;
   font-weight: 200;
   margin-bottom: 20px;
 }
