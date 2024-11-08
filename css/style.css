@@ -433,7 +433,7 @@ h1 {
 }
 /* contact */
 .contact {
-  padding: 60px;
+  padding-block: 60px;
 }
 .contact h6 {
   font-size: 1rem;
